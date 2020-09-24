@@ -5,7 +5,18 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="" />
+    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/Que.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/两树相加$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/两树相加$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/两树相加.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetcode/二叉树/二叉树查众树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/二叉树查众树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetcode/二叉树/广度优先算法BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/广度优先算法BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetcode/二叉树/深度优先算法DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/深度优先算法DFS.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +34,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1gXiNYvH5DsVoEUrOCFMdEuvHGu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.两树相加">
+  <component name="RunManager" selected="Application.深度优先算法DFS">
     <configuration name="两树相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.leetcode.链表.两树相加" />
       <module name="untitled" />
@@ -71,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.MaxProfit" />
+    <configuration name="深度优先算法DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.二叉树.深度优先算法DFS" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetcode.链表.*" />
+          <option name="PATTERN" value="test.leetcode.二叉树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.深度优先算法DFS" />
         <item itemvalue="Application.两树相加" />
         <item itemvalue="Application.BitMapTest" />
         <item itemvalue="Application.RemoveDuplicateLetters" />
         <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.MaxProfit" />
       </list>
     </recent_temporary>
   </component>
@@ -150,11 +166,23 @@
       <workItem from="1600654021664" duration="4000" />
       <workItem from="1600667820871" duration="6923000" />
       <workItem from="1600827020551" duration="8446000" />
+      <workItem from="1600934236787" duration="4587000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -193,6 +221,11 @@
           <url>file://$PROJECT_DIR$/src/data/structures/BitMapTest.java</url>
           <line>15</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/leetcode/二叉树/深度优先算法DFS.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -12,9 +12,11 @@ import java.util.LinkedList;
 public class 广度优先算法BFS {
 
     // 非递归
-    public static void levelOrder(TreeNode tree) {
-        if (tree == null)
+    public static void levelOrder1(TreeNode tree) {
+
+        if (tree == null) {
             return;
+        }
         LinkedList<TreeNode> list = new LinkedList<>();
         //链表，这里我们可以把它看做队列
         list.add(tree);
@@ -32,7 +34,7 @@ public class 广度优先算法BFS {
 
 
     // 递归
-    public static void levelOrder1(TreeNode tree) {
+    public static void levelOrder(TreeNode tree) {
         int depth = depth(tree);
         for (int level = 0; level < depth; level++) {
             printLevel(tree, level);
