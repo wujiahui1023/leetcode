@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
  * @author jiahui.wu
  */
 public class 从中序与后序遍历序列构造二叉树 {
