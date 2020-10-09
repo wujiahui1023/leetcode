@@ -50,7 +50,24 @@ public class 深度优先算法DFS {
         }
     }
 
+    //-----------------------------------------------------------------------
+    // 深度遍历DFS -> 根左右
+    public static void treeDFS2(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<>();
+        stack.add(root);
+        while (!stack.empty()) {
+            TreeNode node = stack.pop();
+            System.out.println(node.val);
+            if (node.right != null) {
+                stack.push(node.right);
+            }
+            if (node.left != null) {
+                stack.push(node.left);
+            }
+        }
+    }
 
+//---------------------------------------------------------------------------------------------
     /**
      * 递归的写法
      */

@@ -5,6 +5,11 @@ import common.Node;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * BFS 广度遍历算法
+ *
+ * @author jiahui.wu
+ */
 public class 填充每个节点的下一个右侧节点指针117 {
 
     public static void main(String[] args) {

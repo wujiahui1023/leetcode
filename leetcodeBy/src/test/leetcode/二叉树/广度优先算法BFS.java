@@ -3,6 +3,7 @@ package test.leetcode.二叉树;
 import common.TreeNode;
 
 import java.util.LinkedList;
+import java.util.Stack;
 
 /**
  * https://mp.weixin.qq.com/s?__biz=MzU0ODMyNDk0Mw==&mid=2247487028&idx=1&sn=e06a0cd5760e62890e60e43a279a472b&chksm=fb419d14cc36140257eb220aaeac182287b10c3cab5c803ebd54013ee3fc120d693067c2e960&scene=21#wechat_redirect
@@ -22,8 +23,9 @@ public class 广度优先算法BFS {
         list.add(tree);
         //相当于把数据加入到队列尾部
         while (!list.isEmpty()) {
-            TreeNode node = list.poll();
+
             //poll方法相当于移除队列头部的元素
+            TreeNode node = list.poll();
             System.out.println(node.val);
             if (node.left != null)
                 list.add(node.left);
@@ -33,6 +35,8 @@ public class 广度优先算法BFS {
     }
 
 
+
+    // ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>递归
     // 递归
     public static void levelOrder(TreeNode tree) {
         int depth = depth(tree);
