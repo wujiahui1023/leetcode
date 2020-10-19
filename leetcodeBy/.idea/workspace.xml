@@ -5,22 +5,21 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="创建 链表节点类">
-      <change afterPath="$PROJECT_DIR$/src/common/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/二叉树的后序遍历145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/树前中后.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/leetcode/链表/环形链表是否有环141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test/Test.java" afterDir="false" />
+    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="jvm 对象创建过程">
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/比较含退格的字符串844.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/common/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/common/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/二叉树查众树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/二叉树查众树.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/common/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/common/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/SwapPairs$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/SwapPairs.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/广度优先算法BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/广度优先算法BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/树前中后.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/树前中后.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/深度优先算法DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/深度优先算法DFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/leetcode/二叉树/二叉搜索树的最近公共祖先235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/二叉搜索树的最近公共祖先235.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/leetcode/二叉树/填充每个节点的下一个右侧节点指针117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/填充每个节点的下一个右侧节点指针117.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/leetcode/二叉树/广度优先算法BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/广度优先算法BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/leetcode/二叉树/深度优先算法DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/深度优先算法DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/数组/最长公共前缀14$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/数组/最长公共前缀14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetcode/数组/simple/最长公共前缀14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/最长公共前缀14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetcode/数组/simple/有序数组的平方977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/有序数组的平方977.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/人民日报-0909/peoples_daily_service" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -70,13 +69,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.树前中后">
-    <configuration name="树前中后" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.二叉树.树前中后" />
+  <component name="RunManager" selected="Application.比较含退格的字符串844">
+    <configuration name="查找常用字符1002 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.simple.查找常用字符1002" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetcode.二叉树.*" />
+          <option name="PATTERN" value="test.leetcode.字符串数组.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="填充每个节点的下一个右侧节点指针117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.二叉树.填充每个节点的下一个右侧节点指针117" />
+    <configuration name="查找常用字符1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.simple.simple.查找常用字符1002" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetcode.二叉树.*" />
+          <option name="PATTERN" value="test.leetcode.字符串数组.simple.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="二叉树的后序遍历145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.二叉树.二叉树的后序遍历145" />
+    <configuration name="比较含退格的字符串844" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.simple.比较含退格的字符串844" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetcode.二叉树.*" />
+          <option name="PATTERN" value="test.leetcode.字符串数组.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="删除链表的倒数第N个节点19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.链表.删除链表的倒数第N个节点19" />
+    <configuration name="JVM之对象创建过程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tools.simple.JVM之对象创建过程" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetcode.链表.*" />
+          <option name="PATTERN" value="tools.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.树前中后" />
-        <item itemvalue="Application.二叉树的后序遍历145" />
+        <item itemvalue="Application.比较含退格的字符串844" />
+        <item itemvalue="Application.JVM之对象创建过程" />
+        <item itemvalue="Application.查找常用字符1002 (1)" />
+        <item itemvalue="Application.查找常用字符1002" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.填充每个节点的下一个右侧节点指针117" />
-        <item itemvalue="Application.删除链表的倒数第N个节点19" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +186,17 @@
       <workItem from="1601378763160" duration="6254000" />
       <workItem from="1601449513402" duration="8073000" />
       <workItem from="1601525137499" duration="53000" />
-      <workItem from="1602224443408" duration="1519000" />
+      <workItem from="1602224443408" duration="4805000" />
+      <workItem from="1602300951781" duration="4407000" />
+      <workItem from="1602481783144" duration="228000" />
+      <workItem from="1602488974904" duration="6186000" />
+      <workItem from="1602560414245" duration="4416000" />
+      <workItem from="1602645845010" duration="2866000" />
+      <workItem from="1602660056283" duration="6339000" />
+      <workItem from="1602753001962" duration="16000" />
+      <workItem from="1602815713871" duration="3890000" />
+      <workItem from="1603027586683" duration="78000" />
+      <workItem from="1603073428850" duration="3084000" />
     </task>
     <task id="LOCAL-00001" summary="从中序遍历与后序遍历构造二叉树">
       <created>1601004585386</created>
@@ -245,7 +254,70 @@
       <option name="project" value="LOCAL" />
       <updated>1601304340325</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="返回倒数第k个节点&#10;双指针快慢指针">
+      <created>1602234726194</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602234726194</updated>
+    </task>
+    <task id="LOCAL-00010" summary="链表中倒数第k个节点 -&gt; 快慢指针">
+      <created>1602236615869</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602236615869</updated>
+    </task>
+    <task id="LOCAL-00011" summary="142 环形链表II">
+      <created>1602328171981</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602328171981</updated>
+    </task>
+    <task id="LOCAL-00012" summary="创建 链表节点类">
+      <created>1602328213382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602328213382</updated>
+    </task>
+    <task id="LOCAL-00013" summary="二叉搜索树的最小绝对差530">
+      <created>1602492077003</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602492077003</updated>
+    </task>
+    <task id="LOCAL-00014" summary="删除中间节点面试题0203">
+      <created>1602493289556</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602493289556</updated>
+    </task>
+    <task id="LOCAL-00015" summary="jvm 对象创建过程">
+      <created>1602816627272</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602816627272</updated>
+    </task>
+    <task id="LOCAL-00016" summary="自旋锁实现方式">
+      <created>1602816672856</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602816672856</updated>
+    </task>
+    <task id="LOCAL-00017" summary="977 有序数组的平方">
+      <created>1602816702106</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602816702106</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,11 +340,19 @@
     <MESSAGE value="从中序遍历与后序遍历构造二叉树" />
     <MESSAGE value="最长公共前缀14" />
     <MESSAGE value="19.删除链表的倒数 第N个 节点" />
-    <MESSAGE value="创建 链表节点类" />
     <MESSAGE value="二叉搜索树的最近公共祖先235" />
     <MESSAGE value="20.有效的括号 (){}{}[]" />
     <MESSAGE value="填充 每一个节点的下一个右侧节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="填充 每一个节点的下一个右侧节点" />
+    <MESSAGE value="返回倒数第k个节点&#10;双指针快慢指针" />
+    <MESSAGE value="链表中倒数第k个节点 -&gt; 快慢指针" />
+    <MESSAGE value="142 环形链表II" />
+    <MESSAGE value="创建 链表节点类" />
+    <MESSAGE value="二叉搜索树的最小绝对差530" />
+    <MESSAGE value="删除中间节点面试题0203" />
+    <MESSAGE value="jvm 对象创建过程" />
+    <MESSAGE value="自旋锁实现方式" />
+    <MESSAGE value="977 有序数组的平方" />
+    <option name="LAST_COMMIT_MESSAGE" value="977 有序数组的平方" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,6 +411,11 @@
           <url>file://$PROJECT_DIR$/src/test/leetcode/二叉树/树前中后.java</url>
           <line>31</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/比较含退格的字符串844.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

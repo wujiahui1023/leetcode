@@ -1,4 +1,4 @@
-package test.leetcode.数组.simple;
+package test.leetcode.字符串数组.simple;
 
 import java.util.Arrays;
 
