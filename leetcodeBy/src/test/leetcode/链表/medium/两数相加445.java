@@ -142,7 +142,7 @@ public class 两数相加445 {
             }
 
 
-            // -> 链表通用处理   listNode.next = result; result = listNode;
+            // -> 链表通用翻转处理   listNode.next = result; result = listNode;
             // 原有高位降一位
             listNode.next = result;
             // 设置最新高位
