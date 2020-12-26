@@ -4,31 +4,38 @@
     <option name="SPLITTER_PROPORTION" value="0.39458087" />
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="jvm 对象创建过程">
-      <change afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/比较含退格的字符串844.java" afterDir="false" />
+    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="字符串中的第一个唯一字符387">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/common/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/common/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/SwapPairs$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/SwapPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/广度优先算法BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/广度优先算法BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/博客" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/博客" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/树前中后.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/树前中后.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/深度优先算法DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/深度优先算法DFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/数组/最长公共前缀14$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/数组/最长公共前缀14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/链表/删除链表的倒数第N个节点19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/leetcode/数组/simple/最长公共前缀14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/最长公共前缀14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/leetcode/数组/simple/有序数组的平方977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/有序数组的平方977.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="untitled" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,40 +55,107 @@
   </component>
   <component name="ProjectId" id="1gXiNYvH5DsVoEUrOCFMdEuvHGu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/人民日报-0909/peoples_daily_service" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.比较含退格的字符串844">
-    <configuration name="查找常用字符1002 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.simple.查找常用字符1002" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.leetcode.字符串数组.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Application.无重复字符的最长子串3">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
     </configuration>
     <configuration name="查找常用字符1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.simple.simple.查找常用字符1002" />
@@ -89,6 +163,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.leetcode.字符串数组.simple.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="无重复字符的最长子串3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.medium.无重复字符的最长子串3" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.leetcode.字符串数组.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,16 +222,124 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.查找常用字符1002" />
+      <item itemvalue="Application.比较含退格的字符串844" />
+      <item itemvalue="Application.JVM之对象创建过程" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.无重复字符的最长子串3" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.比较含退格的字符串844" />
-        <item itemvalue="Application.JVM之对象创建过程" />
-        <item itemvalue="Application.查找常用字符1002 (1)" />
-        <item itemvalue="Application.查找常用字符1002" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.无重复字符的最长子串3" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -197,6 +392,13 @@
       <workItem from="1602815713871" duration="3890000" />
       <workItem from="1603027586683" duration="78000" />
       <workItem from="1603073428850" duration="3084000" />
+      <workItem from="1605970094167" duration="3053000" />
+      <workItem from="1607146269373" duration="10403000" />
+      <workItem from="1607523821642" duration="625000" />
+      <workItem from="1607524473051" duration="18000" />
+      <workItem from="1608940507282" duration="21000" />
+      <workItem from="1608940578382" duration="548000" />
+      <workItem from="1608941141812" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="从中序遍历与后序遍历构造二叉树">
       <created>1601004585386</created>
@@ -317,24 +519,44 @@
       <option name="project" value="LOCAL" />
       <updated>1602816702106</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="任务调度器621">
+      <created>1607146897208</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607146897208</updated>
+    </task>
+    <task id="LOCAL-00019" summary="无重复字符的最长子串3">
+      <created>1607164295699</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607164295699</updated>
+    </task>
+    <task id="LOCAL-00020" summary="字符串中的第一个唯一字符387">
+      <created>1608941281086</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608941281086</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="从中序遍历与后序遍历构造二叉树" />
@@ -352,7 +574,60 @@
     <MESSAGE value="jvm 对象创建过程" />
     <MESSAGE value="自旋锁实现方式" />
     <MESSAGE value="977 有序数组的平方" />
-    <option name="LAST_COMMIT_MESSAGE" value="977 有序数组的平方" />
+    <MESSAGE value="任务调度器621" />
+    <MESSAGE value="无重复字符的最长子串3" />
+    <MESSAGE value="字符串中的第一个唯一字符387" />
+    <option name="LAST_COMMIT_MESSAGE" value="字符串中的第一个唯一字符387" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="420" height="466" key="DebuggerActiveHint" timestamp="1607163931694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="420" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607163931694" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1607164088870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1607164088870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1607164088870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1607164088870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
+    <state width="1877" height="232" key="GridCell.Tab.1.bottom" timestamp="1607164088699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088699" />
+    <state width="1877" height="232" key="GridCell.Tab.1.center" timestamp="1607164088698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088698" />
+    <state width="1877" height="232" key="GridCell.Tab.1.left" timestamp="1607164088698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088698" />
+    <state width="1877" height="232" key="GridCell.Tab.1.right" timestamp="1607164088698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088698" />
+    <state x="287" y="238" width="998" height="787" key="SettingsEditor" timestamp="1607146684183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="287" y="238" width="998" height="787" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607146684183" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608941337914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608941337914" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607147659947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607147659947" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
