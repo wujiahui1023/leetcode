@@ -24,15 +24,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="字符串中的第一个唯一字符387">
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/二叉树/medium/电话号码的字母组合17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/medium/最长回文子串5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/medium/跳跃数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/搜索插入位置35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/括号生成22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/数组/medium/盛最多水的容器11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/滑动窗口/无重复字符的最长子串3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetcode/链表/反转链表92.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/博客" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/博客" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/树前中后.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/test/leetcode/二叉树/树前中后.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetcode/全排列46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/全排列46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/删除有序数组中的重复项26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/删除有序数组中的重复项26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -61,17 +71,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../0124/cloud-user" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.无重复字符的最长子串3">
+  <component name="RunManager" selected="Application.最长回文子串5">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -98,6 +110,34 @@
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
       <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
@@ -157,21 +197,8 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="查找常用字符1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.simple.simple.查找常用字符1002" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.leetcode.字符串数组.simple.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="无重复字符的最长子串3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.medium.无重复字符的最长子串3" />
+    <configuration name="跳跃数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.medium.跳跃数组" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -183,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="比较含退格的字符串844" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.simple.比较含退格的字符串844" />
+    <configuration name="括号生成22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.括号生成22" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetcode.字符串数组.simple.*" />
+          <option name="PATTERN" value="test.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JVM之对象创建过程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tools.simple.JVM之对象创建过程" />
+    <configuration name="无重复字符的最长子串3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.滑动窗口.无重复字符的最长子串3" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tools.simple.*" />
+          <option name="PATTERN" value="test.leetcode.滑动窗口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test.Test" />
+    <configuration name="最长回文子串5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.字符串数组.medium.最长回文子串5" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.test.*" />
+          <option name="PATTERN" value="test.leetcode.字符串数组.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,30 +249,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
+    <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetcode.二分查找.SearchInsert" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.leetcode.二分查找.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -275,34 +287,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -327,15 +311,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.查找常用字符1002" />
-      <item itemvalue="Application.比较含退格的字符串844" />
-      <item itemvalue="Application.JVM之对象创建过程" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.无重复字符的最长子串3" />
+      <item itemvalue="Application.括号生成22" />
+      <item itemvalue="Application.跳跃数组" />
+      <item itemvalue="Application.SearchInsert" />
+      <item itemvalue="Application.无重复字符的最长子串3 (1)" />
+      <item itemvalue="Application.最长回文子串5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.无重复字符的最长子串3" />
+        <item itemvalue="Application.最长回文子串5" />
+        <item itemvalue="Application.无重复字符的最长子串3 (1)" />
+        <item itemvalue="Application.SearchInsert" />
+        <item itemvalue="Application.跳跃数组" />
+        <item itemvalue="Application.括号生成22" />
       </list>
     </recent_temporary>
   </component>
@@ -399,6 +387,31 @@
       <workItem from="1608940507282" duration="21000" />
       <workItem from="1608940578382" duration="548000" />
       <workItem from="1608941141812" duration="812000" />
+      <workItem from="1635220259015" duration="21000" />
+      <workItem from="1637112675203" duration="731000" />
+      <workItem from="1637149705625" duration="3027000" />
+      <workItem from="1637581352912" duration="2122000" />
+      <workItem from="1638877724184" duration="3075000" />
+      <workItem from="1639472352511" duration="3342000" />
+      <workItem from="1639568780118" duration="706000" />
+      <workItem from="1639625030361" duration="9000" />
+      <workItem from="1639644359000" duration="5214000" />
+      <workItem from="1639703426550" duration="2055000" />
+      <workItem from="1639814930829" duration="61000" />
+      <workItem from="1640078621944" duration="4048000" />
+      <workItem from="1640164943805" duration="3525000" />
+      <workItem from="1640222023799" duration="6046000" />
+      <workItem from="1640313626072" duration="592000" />
+      <workItem from="1640412510514" duration="592000" />
+      <workItem from="1640416975521" duration="80000" />
+      <workItem from="1640520783247" duration="1312000" />
+      <workItem from="1640598127443" duration="593000" />
+      <workItem from="1640604724257" duration="593000" />
+      <workItem from="1642828249056" duration="4119000" />
+      <workItem from="1642837631049" duration="1302000" />
+      <workItem from="1642986740483" duration="6917000" />
+      <workItem from="1643075266449" duration="4558000" />
+      <workItem from="1644200168928" duration="1184000" />
     </task>
     <task id="LOCAL-00001" summary="从中序遍历与后序遍历构造二叉树">
       <created>1601004585386</created>
@@ -540,7 +553,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608941281086</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">
+      <created>1639654204139</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1639654204139</updated>
+    </task>
+    <task id="LOCAL-00022" summary="二分查找">
+      <created>1642830536931</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642830536931</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,57 +604,9 @@
     <MESSAGE value="任务调度器621" />
     <MESSAGE value="无重复字符的最长子串3" />
     <MESSAGE value="字符串中的第一个唯一字符387" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串中的第一个唯一字符387" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="420" height="466" key="DebuggerActiveHint" timestamp="1607163931694">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="420" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607163931694" />
-    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1607164088870">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
-    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1607164088870">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
-    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1607164088870">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
-    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1607164088870">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088870" />
-    <state width="1877" height="232" key="GridCell.Tab.1.bottom" timestamp="1607164088699">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088699" />
-    <state width="1877" height="232" key="GridCell.Tab.1.center" timestamp="1607164088698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088698" />
-    <state width="1877" height="232" key="GridCell.Tab.1.left" timestamp="1607164088698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088698" />
-    <state width="1877" height="232" key="GridCell.Tab.1.right" timestamp="1607164088698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="232" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607164088698" />
-    <state x="287" y="238" width="998" height="787" key="SettingsEditor" timestamp="1607146684183">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="287" y="238" width="998" height="787" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607146684183" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608941337914">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608941337914" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607147659947">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607147659947" />
+    <MESSAGE value="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/" />
+    <MESSAGE value="二分查找" />
+    <option name="LAST_COMMIT_MESSAGE" value="二分查找" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -691,6 +670,11 @@
           <url>file://$PROJECT_DIR$/src/test/leetcode/字符串数组/simple/比较含退格的字符串844.java</url>
           <line>72</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/leetcode/括号生成22.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
