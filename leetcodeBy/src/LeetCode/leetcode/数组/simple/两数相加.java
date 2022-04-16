@@ -11,6 +11,7 @@ import common.ListNode;
 public class 两数相加 {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+
         ListNode head = null, tail = null;
         int carry = 0;
         while (l1 != null || l2 != null) {

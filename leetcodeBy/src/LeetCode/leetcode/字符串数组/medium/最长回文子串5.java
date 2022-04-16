@@ -12,13 +12,11 @@ public class 最长回文子串5 {
     public static void main(String[] args) {
 
 
-
-        int i = 111/10;
+        int i = 111 / 10;
         System.out.println(i);
-        int i1 = 111%10;
+        int i1 = 111 % 10;
         System.out.println(i1);
     }
-
 
     public String demo1(String s) {
 

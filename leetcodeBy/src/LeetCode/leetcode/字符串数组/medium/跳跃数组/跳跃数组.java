@@ -1,4 +1,4 @@
-package LeetCode.leetcode.字符串数组.medium;
+package LeetCode.leetcode.字符串数组.medium.跳跃数组;
 
 /**
  * @program: leetcodeBy
