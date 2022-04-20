@@ -35,4 +35,19 @@ public class 回文数9 {
         return cur == x;
     }
 
+
+    public boolean isPalindrome1(int x) {
+
+        if (x < 0 || (x%10 ==0 && x!=0))
+            return false;
+        int cur = 0;
+        int num = x;
+        while (num != 0) {
+            cur = cur * 10 + num % 10;
+            num /= 10;
+        }
+        return cur == x || cur == x/10;
+
+    }
+
 }
