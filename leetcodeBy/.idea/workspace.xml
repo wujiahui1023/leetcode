@@ -25,7 +25,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/算法必会题" beforeDir="false" afterPath="$PROJECT_DIR$/src/算法必会题" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -411,7 +410,7 @@
       <workItem from="1650108853362" duration="4457000" />
       <workItem from="1650177424011" duration="5439000" />
       <workItem from="1650267276675" duration="4075000" />
-      <workItem from="1650446343352" duration="4254000" />
+      <workItem from="1650446343352" duration="4685000" />
     </task>
     <task id="LOCAL-00001" summary="从中序遍历与后序遍历构造二叉树">
       <created>1601004585386</created>
@@ -602,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650473719109</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="哎">
+      <created>1650477508723</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1650477508723</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
