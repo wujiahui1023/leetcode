@@ -5,6 +5,7 @@ import common.ListNode;
 
 /**
  * @author https://github.com/wujiahui1023
+ * https://leetcode.cn/problems/reverse-linked-list/solution/shi-pin-jiang-jie-die-dai-he-di-gui-hen-hswxy/
  * @date 2020/10/21 15:40
  */
 public class 反转链表206 {

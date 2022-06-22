@@ -23,8 +23,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="">
+    <list default="true" id="f16cadb6-8263-43d6-862d-6de9d60aac68" name="Default Changelist" comment="哎">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/leetcode/链表/重排链表143.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/leetcode/链表/反转链表206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/leetcode/链表/反转链表206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +70,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../05/yunger" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.最长回文子串5">
+  <component name="RunManager" selected="Application.反转链表206">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -189,7 +193,7 @@
     </configuration>
     <configuration name="跳跃数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.leetcode.字符串数组.medium.跳跃数组.跳跃数组" />
-      <module name="untitled" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.leetcode.字符串数组.medium.跳跃数组.*" />
@@ -200,9 +204,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="反转链表206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.leetcode.链表.反转链表206" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.leetcode.链表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="括号生成22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.leetcode.括号生成22" />
-      <module name="untitled" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.leetcode.*" />
@@ -213,22 +230,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="无重复字符的最长子串3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.leetcode.滑动窗口.无重复字符的最长子串3" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.leetcode.滑动窗口.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="最长回文子串5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.leetcode.字符串数组.medium.最长回文子串5" />
-      <module name="untitled" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.leetcode.字符串数组.medium.跳跃数组.*" />
@@ -241,7 +245,7 @@
     </configuration>
     <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.leetcode.二分查找.SearchInsert" />
-      <module name="untitled" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.leetcode.二分查找.*" />
@@ -301,14 +305,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.无重复字符的最长子串3" />
       <item itemvalue="Application.括号生成22" />
       <item itemvalue="Application.跳跃数组" />
       <item itemvalue="Application.SearchInsert" />
       <item itemvalue="Application.最长回文子串5" />
+      <item itemvalue="Application.反转链表206" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.反转链表206" />
         <item itemvalue="Application.最长回文子串5" />
         <item itemvalue="Application.SearchInsert" />
         <item itemvalue="Application.跳跃数组" />
@@ -411,6 +416,9 @@
       <workItem from="1650177424011" duration="5439000" />
       <workItem from="1650267276675" duration="4075000" />
       <workItem from="1650446343352" duration="4685000" />
+      <workItem from="1655552261776" duration="1552000" />
+      <workItem from="1655603292561" duration="1832000" />
+      <workItem from="1655889796013" duration="3726000" />
     </task>
     <task id="LOCAL-00001" summary="从中序遍历与后序遍历构造二叉树">
       <created>1601004585386</created>
